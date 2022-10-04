@@ -3,3 +3,42 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+header{
+    background-color: #FFDBAA;
+    color: #553100;
+}
+
+button{
+    background-color: #805215;
+    color: white;
+}
+body{
+    background-color: #D4A76A;
+}
+div{
+    background-color: white;
+}
+#leftbox {
+    padding-top:5%;
+    padding-left:15px;
+    padding-right:15px;
+    float:left; 
+    width:25%;
+    height:200px;
+}
+#middlebox{
+    float:left; 
+    width:25%;
+    height:200px;
+}
+#rightbox{
+    float:left;
+    width:25%;
+    height:200px;
+}
+#bottombox{
+    float:none;
+    width: 80%;
+    height:300px;
+}
+
